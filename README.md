@@ -1,1 +1,1 @@
-# Sistema-SQL-Informatica
+# Sistema-SQL-Informatic
